@@ -81,7 +81,5 @@ PMC Frontend Application: A React-based web application designed to [insert purp
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
 
-[Insert license information here, e.g., MIT License]
 
